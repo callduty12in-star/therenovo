@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="170" viewBox="0 0 900 170">
+  <rect x="8" y="18" width="132" height="132" rx="34" fill="#eaf2ff" stroke="#d3e3ff" stroke-width="4"/>
+  <path d="M74 42 L86 66 L111 78 L86 90 L74 115 L62 90 L37 78 L62 66 Z" fill="#176ef1"/>
+  <text x="170" y="88" font-family="Arial, Helvetica, sans-serif" font-size="60" font-weight="800" fill="#112c5c">RENOVO</text>
+  <text x="173" y="123" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="600" letter-spacing="1" fill="#2869d7">TIE IT – TRACK IT – TRANSFORM IT</text>
+</svg>
